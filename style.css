@@ -1,0 +1,22 @@
+.TOP_Pagina {
+    background-color: beige;
+    text-align: center;
+}
+
+nav {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+
+.texto_pagina {
+    background-color: orange;
+}
+
+.pie_pagina {
+    text-align: center;
+    background-color: blue;
+}
+span.test{
+    background-color: yellow;
+}
